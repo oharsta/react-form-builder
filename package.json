@@ -43,6 +43,8 @@
     "classnames": "^2.2.3",
     "lodash": "^4.0.0",
     "marked": "^0.3.2",
+    "react": ">=0.14",
+    "react-dom": ">=0.14",
     "react-addons-clone-with-props": "^0.14.6",
     "react-addons-create-fragment": "^0.14.6",
     "react-addons-update": "^0.14.6",
@@ -50,8 +52,5 @@
     "react-bootstrap-datetimepicker": "^0.0.22",
     "shallowequal": "^0.2.2",
     "underscore.string": "^3.2.3"
-  },
-  "peerDependencies": {
-    "react": ">=0.14"
   }
 }
